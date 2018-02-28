@@ -1,2 +1,3 @@
 # hi_subham
 what i think express through codes....
+now you solve some new things which have not ever done!!
