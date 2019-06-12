@@ -1,0 +1,44 @@
+
+input:
+1,2:3
+2,1:3:4
+3,1:2:5
+4,2:6:7:8
+5,3:8:9
+6,4:7:10
+7,4:6:8:10
+8,5:7:9:10:4
+9,5:8
+10,6:7:8
+
+output:
+
+((8,5),CompactBuffer(9))
+((3,1),CompactBuffer(2))
+((7,10),CompactBuffer(6, 8))
+((2,3),CompactBuffer(1))
+((6,10),CompactBuffer(7))
+((1,2),CompactBuffer(3))
+((7,4),CompactBuffer(6, 8))
+((8,9),CompactBuffer(5))
+((2,1),CompactBuffer(3))
+((7,8),CompactBuffer(4, 10))
+((9,8),CompactBuffer(5))
+((8,10),CompactBuffer(7))
+((8,4),CompactBuffer(7))
+((10,7),CompactBuffer(6, 8))
+((8,7),CompactBuffer(4, 10))
+((10,6),CompactBuffer(7))
+((4,7),CompactBuffer(6, 8))
+((7,6),CompactBuffer(4, 10))
+((5,8),CompactBuffer(9))
+((5,9),CompactBuffer(8))
+((4,6),CompactBuffer(7))
+((3,2),CompactBuffer(1))
+((10,8),CompactBuffer(7))
+((6,4),CompactBuffer(7))
+((4,8),CompactBuffer(7))
+((6,7),CompactBuffer(4, 10))
+((1,3),CompactBuffer(2))
+((9,5),CompactBuffer(8))
+Number of triangles = 6
