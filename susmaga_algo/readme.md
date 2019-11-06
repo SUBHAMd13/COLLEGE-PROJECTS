@@ -9,3 +9,5 @@
   2. *Heuristic method*
   
   This algorithm follows *Exact method*.
+
+This project based on paper by [Robert Susmaga]()
