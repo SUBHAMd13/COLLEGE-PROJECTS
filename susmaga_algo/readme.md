@@ -10,4 +10,4 @@
   
   This algorithm follows *Exact method*.
 
-This project based on paper by [Robert Susmaga]()
+This project based on paper by [Robert Susmaga](https://github.com/subhamD13/projects/blob/master/susmaga_algo/Susmaga1998_Chapter_ParallelComputationOfReducts.pdf)
