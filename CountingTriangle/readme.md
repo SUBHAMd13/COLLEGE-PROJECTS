@@ -12,5 +12,8 @@
 - Install spark into system using SBT.
 - Start SBT in the terminal and run the code using `runMain CountingTriangle`.
 
+## Toy graph for visualize:
+![toy dataset snap](https://github.com/subhamD13/Data-Science-related-Projects/blob/master/CountingTriangle/IMG_20181113_123605.jpg)
+
 
 This project based on book by [Mahmoud Parsian](https://www.oreilly.com/library/view/data-algorithms/9781491906170/)
